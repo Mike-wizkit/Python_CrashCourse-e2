@@ -1,0 +1,1 @@
+print('Albert Einstein once said, "I believe in intuitions and inspirations.\nI sometimes feel that I am right. I do not know that I am."')
