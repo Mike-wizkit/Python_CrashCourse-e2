@@ -1,4 +1,4 @@
-# you can add (+), subtract (-), multiply (*), and devide (/) intergers in python
+# you can add (+), subtract (-), multiply (*), and divide (/) integers in python
 print(2 + 3)
 
 print(3 - 2)
