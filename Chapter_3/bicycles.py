@@ -15,6 +15,5 @@ print(bicycles[-1])
 
 # here ill use an f-string to create a message based on the variables in
 # the list
-
 message = f"My first bicycle was a {bicycles[0].title()}."
 print(message)
